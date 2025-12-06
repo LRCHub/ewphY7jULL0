@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "そばかす",
+  "base_artist": "Judy & Mary",
+  "createdAt": "2025-12-06T06:33:08.904032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そばかす",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/01_そばかす_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そばかす",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/02_そばかす_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "そばかす",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/03_そばかす_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "そばかす",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/04_そばかす_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "そばかす",
+      "artist": "中川翔子",
+      "has_synced": false,
+      "path": "select/05_そばかす_中川翔子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "そばかす",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/06_そばかす_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "そばかす - Sobakasu",
+      "artist": "Judy",
+      "has_synced": true,
+      "path": "select/07_そばかす_-_Sobakasu_Judy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "そばかす バッキングトラック",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/08_そばかす_バッキングトラック_JUDY_AND_MARY.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "そばかす -Live- - 東京ドーム 1998.12.26",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/09_そばかす_-Live-_-_東京ドーム_1998.12.26_JUDY_AND_MARY.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "そばかす",
+      "artist": "Judy & Mary",
+      "has_synced": true,
+      "path": "select/10_そばかす_Judy_&_Mary.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "そばかす - Sobakasu",
+      "artist": "Diana Garnet",
+      "has_synced": false,
+      "path": "select/11_そばかす_-_Sobakasu_Diana_Garnet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "そばかす (バッキング・トラック)",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/12_そばかす_(バッキング・トラック)_JUDY_AND_MARY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そばかす",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/pl_01_そばかす_JUDY_AND_MARY.txt"
+    }
+  ]
+}
